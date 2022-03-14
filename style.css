@@ -22,7 +22,7 @@ body {
 }
 
 
-.fundoGame {
+#fundoGame {
 	width:950px;
 	height:630px;
 	background-image:url("../jogo1/imgs/fundo_game.jpg");
@@ -30,7 +30,7 @@ body {
 	border-style:solid;
 }
 
-.jogador {
+#jogador {
 	width:256px;
 	height:66px;
 	position:absolute;
@@ -40,7 +40,7 @@ background-image:url("../jogo1/imgs/apache.png");
 
 }
 
-.inimigo1 {
+#inimigo1 {
 	width: 256px;
 	height: 66px;
 	position: absolute;
@@ -50,7 +50,7 @@ background-image:url("../jogo1/imgs/apache.png");
 	
 }
 
-.inimigo2 {
+#inimigo2 {
 	width: 165px;
 	height: 70px;
 	position: absolute;
@@ -59,7 +59,7 @@ background-image:url("../jogo1/imgs/apache.png");
 	background-image: url("../jogo1/imgs/inimigo2.png");
 }
 
-.amigo {
+#amigo {
 	width: 44px;
 	height: 51px;
 	position: absolute;
@@ -68,7 +68,7 @@ background-image:url("../jogo1/imgs/apache.png");
 	background-image:url("../jogo1/imgs/amigo.png");
 }
 
-.inicio {
+#inicio {
 	width:350px;
 	height:200px;
 	background-color:#FFF;
